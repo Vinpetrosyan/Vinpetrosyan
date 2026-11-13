@@ -14,7 +14,6 @@ I’m interested in programming, artificial intelligence, <br>and new technologi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venera-Baghdasaryan&layout=compact&theme=default)
 
----
-[![](https://komarev.com/ghpvc/?username=Venera Baghdasaryan&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Venera-Baghdasaryan&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
